@@ -1,0 +1,10 @@
+Origin: repo.acoroslinux.pt
+Label: acoros repository
+Suite: testing
+Codename: acoros
+Version: 5.0
+Architectures: i386 amd64
+Components: main contrib non-free
+Description: Repositorio AçorOS packages
+SignWith: 737E86EA
+Update: acoros-test-repo

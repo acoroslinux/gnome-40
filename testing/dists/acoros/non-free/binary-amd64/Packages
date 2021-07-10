@@ -1,0 +1,36 @@
+Package: nemo-dropbox
+Version: 5.0.0acoros1
+Architecture: amd64
+Maintainer: Clement Lefebvre <root@linuxmint.com>
+Installed-Size: 150
+Depends: nemo, policykit-1, procps, libc6 (>= 2.28), libglib2.0-0 (>= 2.35.9), libgtk-3-0 (>= 3.0.0), libnemo-extension1 (>= 5.0.1acoros1), dropbox
+Homepage: http://www.dropbox.com/
+Priority: optional
+Section: non-free/gnome
+Filename: pool/non-free/n/nemo-dropbox/nemo-dropbox_5.0.0acoros1_amd64.deb
+Size: 50340
+SHA256: 26403b1966f6f2926471060132c44a84a461cab17734221d8d5afac2f878eca3
+SHA1: f8c827e5ddafc90cfd8f47091008e72cb67c7018
+MD5sum: f647f3fdde18b2fcaf9337db8d907d04
+Description: Dropbox integration for Nemo
+ Nemo Dropbox is an extension that integrates the Dropbox web service with
+ your Cinnamon Desktop.
+
+Package: nemo-dropbox-dbgsym
+Source: nemo-dropbox
+Version: 5.0.0acoros1
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Clement Lefebvre <root@linuxmint.com>
+Installed-Size: 63
+Depends: nemo-dropbox (= 5.0.0acoros1)
+Priority: optional
+Section: non-free/debug
+Filename: pool/non-free/n/nemo-dropbox/nemo-dropbox-dbgsym_5.0.0acoros1_amd64.deb
+Size: 43424
+SHA256: ff38e43e6b09c7ef40c0e53bd1fc6c4be421bc1dbc7896f2a30cbde46e4496ba
+SHA1: d426250ddba7682dc21370272c18ecf9a165671d
+MD5sum: 2b31c2e24c20ec703d48a4e9758962f0
+Description: debug symbols for nemo-dropbox
+Build-Ids: 0d555fec37690777a88203e2df65b0b90164ac19
+

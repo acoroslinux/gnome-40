@@ -1,0 +1,7 @@
+Archive: testing
+Version: 4.1
+Component: main
+Origin: repo.acoroslinux.pt
+Label: acoros repository
+Architecture: i386
+Description: Repositorio AçorOS packages
