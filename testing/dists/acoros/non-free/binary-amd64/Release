@@ -1,7 +1,0 @@
-Archive: testing
-Version: 4.1
-Component: non-free
-Origin: repo.acoroslinux.pt
-Label: acoros repository
-Architecture: amd64
-Description: Repositorio AçorOS packages

@@ -1,5 +1,0 @@
-Name: acoros
-Architectures: amd64 i386
-Method: http://ftp.de.debian.org/debian
-VerifyRelease: 737E86EA
-ListHook: /mnt/mirror/DI/DI-filter.sh
